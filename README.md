@@ -1,3 +1,3 @@
 # dali_ideas
 
-Playing around with the Dali API
+Playing around with the Dalle API
