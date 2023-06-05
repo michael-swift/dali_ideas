@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../scratch"
+		},
+		{
+			"path": "../open_ai"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
